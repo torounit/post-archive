@@ -2,14 +2,14 @@
 /**
  * 
  * @package Post Archive
- * @version 0.1
+ * @version 0.2
  * 
  */
 /*
 Plugin Name: Post Archive
 Description: Add Post Archive
 Author: Toro_Unit
-Version: 0.1
+Version: 0.2
 Author URI: http://torounit.com/
 */
 
